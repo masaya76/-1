@@ -74,6 +74,16 @@ footer{
   main{
     width: 100%;
     display: block;
+    justify-content: center;
+  }
+
+  .step-box{
+    width: 90%;
+    margin: 0 5% 20px 5%;
+  }
+
+  .step-box:last-child{
+    margin-bottom: 20px;
   }
 
   footer{
